@@ -2,5 +2,5 @@
 Açık Kaynak Yazılım Geliştirme Odev 1 - Variables
 
 
-##Kullanımı
+## Kullanımı
 bash script.sh
