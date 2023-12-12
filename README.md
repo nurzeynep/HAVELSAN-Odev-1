@@ -2,11 +2,11 @@
 Açık Kaynak Yazılım Geliştirme Odev 1 - Variables
 
 ## Kullanımı
-''' bash
+'''bash
 bash script.sh
 ''' 
 ## Output
-''' bash
+'''bash
 bash script.sh
 Merhaba benim adım Zeynep Nur, soyadım KARACA.
 '''
